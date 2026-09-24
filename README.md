@@ -3,10 +3,7 @@
 Download the required mods from the links below:
 
 **Mod List:**
-
-[Pry Open and Journal Mods](https://www.mediafire.com/folder/2dzvzd3sez9iv/Zomboid+Mods)
-
-[Vehicle Mods](https://drive.google.com/drive/folders/1Gv9ELkXPmi5H_3W-yUI377Z8hztZXKmP)
+[Mod Branch](https://github.com/DarcMattz/zomboid/tree/mods)
 
 ## Installation
 
