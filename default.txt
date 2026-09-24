@@ -1,0 +1,16 @@
+VERSION = 1,
+
+mods
+{
+    mod = SkillRecoveryJournal,
+    mod = ChuckleberryFinnAlertSystem,
+    mod = errorMagnifier,
+    mod = STA_PryOpen,
+    mod = StandardizedVehicleUpgrades3Core,
+    mod = tsarslib,
+    mod = StandardizedVehicleUpgrades3V,
+}
+
+maps
+{
+}
