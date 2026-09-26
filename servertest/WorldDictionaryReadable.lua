@@ -45844,7 +45844,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5313,
@@ -45853,7 +45853,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5314,
@@ -45862,7 +45862,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5315,
@@ -45871,7 +45871,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5316,
@@ -45880,7 +45880,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5317,
@@ -45889,7 +45889,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5318,
@@ -45898,7 +45898,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5319,
@@ -45907,7 +45907,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5320,
@@ -45916,7 +45916,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5321,
@@ -45925,7 +45925,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5322,
@@ -45934,7 +45934,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5323,
@@ -45943,7 +45943,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5324,
@@ -45952,7 +45952,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5325,
@@ -45961,7 +45961,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5326,
@@ -45970,7 +45970,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5327,
@@ -45979,7 +45979,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5328,
@@ -45988,7 +45988,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5329,
@@ -45997,7 +45997,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5330,
@@ -46006,7 +46006,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5331,
@@ -46015,7 +46015,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5332,
@@ -46024,7 +46024,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5333,
@@ -46033,7 +46033,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5334,
@@ -46042,7 +46042,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5335,
@@ -46051,7 +46051,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5336,
@@ -46060,7 +46060,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5337,
@@ -46069,7 +46069,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5338,
@@ -46078,7 +46078,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5339,
@@ -46087,7 +46087,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5340,
@@ -46096,7 +46096,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5341,
@@ -46105,7 +46105,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5342,
@@ -46114,7 +46114,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5343,
@@ -46123,7 +46123,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5344,
@@ -46132,7 +46132,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5345,
@@ -46141,7 +46141,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5346,
@@ -46150,7 +46150,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5347,
@@ -46159,7 +46159,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5348,
@@ -46168,7 +46168,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5349,
@@ -46177,7 +46177,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5350,
@@ -46186,7 +46186,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5351,
@@ -46195,7 +46195,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5352,
@@ -46204,7 +46204,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5353,
@@ -46213,7 +46213,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5354,
@@ -46222,7 +46222,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5355,
@@ -46231,7 +46231,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5356,
@@ -46240,7 +46240,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5357,
@@ -46249,7 +46249,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5358,
@@ -46258,7 +46258,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5359,
@@ -46267,7 +46267,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5360,
@@ -46276,7 +46276,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5361,
@@ -46285,7 +46285,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5362,
@@ -46294,7 +46294,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5363,
@@ -46303,7 +46303,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5364,
@@ -46312,7 +46312,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5365,
@@ -46321,7 +46321,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5366,
@@ -46330,7 +46330,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5367,
@@ -46339,7 +46339,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5368,
@@ -46348,7 +46348,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5369,
@@ -46357,7 +46357,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5370,
@@ -46366,7 +46366,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5371,
@@ -46375,7 +46375,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5372,
@@ -46384,7 +46384,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5373,
@@ -46393,7 +46393,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5374,
@@ -46402,7 +46402,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5375,
@@ -46411,7 +46411,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5376,
@@ -46420,7 +46420,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5377,
@@ -46429,7 +46429,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5378,
@@ -46438,7 +46438,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5379,
@@ -46447,7 +46447,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5380,
@@ -46456,7 +46456,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5381,
@@ -46465,7 +46465,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5382,
@@ -46474,7 +46474,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5383,
@@ -46483,7 +46483,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5384,
@@ -46492,7 +46492,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5385,
@@ -46501,7 +46501,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5386,
@@ -46510,7 +46510,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5387,
@@ -46519,7 +46519,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5388,
@@ -46528,7 +46528,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5389,
@@ -46537,7 +46537,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5390,
@@ -46546,7 +46546,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5391,
@@ -46555,7 +46555,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5392,
@@ -46564,7 +46564,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5393,
@@ -46573,7 +46573,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 	{
 		registryID = 5394,
@@ -46582,7 +46582,7 @@ items = {
 		existsAsVanilla = false,
 		isModded = true,
 		obsolete = false,
-		removed = true,
+		removed = false,
 	},
 }
 

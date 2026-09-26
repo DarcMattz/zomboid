@@ -6005,3 +6005,103 @@ table.insert(log, {
 	{ type = "removed_item", scriptMissing = false, fulltype = "ATA2.ATA1200Trunk3", registeryID = 5393, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = true, isLoaded = false }
 	{ type = "removed_item", scriptMissing = false, fulltype = "ATA2.ATA400Trunk", registeryID = 5394, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = true, isLoaded = false }
 };
+log = log or {};
+table.insert(log, {
+	-- -------------------------------------------------------
+	-- Time: 2026/09/26 19:11:11
+	{
+		type = "info",
+		timeStamp = "2026/09/26 19:11:11",
+		saveWorld = "servertest",
+		worldVersion = 249,
+		hasErrored = false,
+		itemMods = {
+			"pz-vanilla",
+			"SkillRecoveryJournal",
+			"tsarslib",
+		},
+	},
+	{ type = "reinstate_item", fulltype = "ATA2.ATAFendersWideItem", registeryID = 5312, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA2ItemContainer", registeryID = 5313, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA800Trunk", registeryID = 5314, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.TransportMedicine", registeryID = 5315, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATABullbar1Item", registeryID = 5316, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATAFreestorageTrunk", registeryID = 5317, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA600Trunk1", registeryID = 5318, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA600Trunk3", registeryID = 5319, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA600Trunk2", registeryID = 5320, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA200Trunk1", registeryID = 5321, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA200Trunk3", registeryID = 5322, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.TransportFridge", registeryID = 5323, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA200Trunk2", registeryID = 5324, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA200Trunk", registeryID = 5325, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATASpoilerRear2Item", registeryID = 5326, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA250Trunk", registeryID = 5327, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATASleepingBag", registeryID = 5328, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA900Trunk", registeryID = 5329, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA700Trunk3", registeryID = 5330, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA700Trunk2", registeryID = 5331, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA700Trunk1", registeryID = 5332, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.TransportDrawer", registeryID = 5333, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA800Trunk1", registeryID = 5334, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA800Trunk2", registeryID = 5335, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA800Trunk3", registeryID = 5336, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATASkirtsSideItem", registeryID = 5337, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA300Trunk", registeryID = 5338, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.TransportMicrowave", registeryID = 5339, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA900Trunk1", registeryID = 5340, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA900Trunk2", registeryID = 5341, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA900Trunk3", registeryID = 5342, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATAProtectionWheelsChain", registeryID = 5343, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA150Trunk", registeryID = 5344, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.1000Tank2", registeryID = 5345, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.1000Tank1", registeryID = 5346, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.TransportSeatBoxWooden", registeryID = 5347, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.1000Tank3", registeryID = 5348, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.TransportOven", registeryID = 5349, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA1100Trunk", registeryID = 5350, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.TransportShelve", registeryID = 5351, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA400Trunk2", registeryID = 5352, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA400Trunk3", registeryID = 5353, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA400Trunk1", registeryID = 5354, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.500Tank3", registeryID = 5355, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.500Tank2", registeryID = 5356, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.500Tank1", registeryID = 5357, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA1200Trunk", registeryID = 5358, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATABullbar3Item", registeryID = 5359, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATAFrontRoofLightItem", registeryID = 5360, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA500Trunk", registeryID = 5361, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATARoofLightItem", registeryID = 5362, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATASpoilerFrontItem", registeryID = 5363, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA300Trunk3", registeryID = 5364, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA300Trunk1", registeryID = 5365, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA300Trunk2", registeryID = 5366, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA1000Trunk2", registeryID = 5367, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA1000Trunk1", registeryID = 5368, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA1000Trunk3", registeryID = 5369, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA600Trunk", registeryID = 5370, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.TransportCounter", registeryID = 5371, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA150Trunk3", registeryID = 5372, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA150Trunk2", registeryID = 5373, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA150Trunk1", registeryID = 5374, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.TransportCupboard", registeryID = 5375, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA1100Trunk1", registeryID = 5376, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA1100Trunk3", registeryID = 5377, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA1100Trunk2", registeryID = 5378, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATABullbar2Item", registeryID = 5379, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA1000Trunk", registeryID = 5380, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA700Trunk", registeryID = 5381, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.TransportFreezer", registeryID = 5382, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATABullbarPoliceItem1", registeryID = 5383, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA500Trunk3", registeryID = 5384, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA500Trunk1", registeryID = 5385, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA500Trunk2", registeryID = 5386, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATASpoilerRear1Item", registeryID = 5387, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA250Trunk2", registeryID = 5388, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA250Trunk1", registeryID = 5389, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA250Trunk3", registeryID = 5390, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA1200Trunk1", registeryID = 5391, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA1200Trunk2", registeryID = 5392, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA1200Trunk3", registeryID = 5393, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+	{ type = "reinstate_item", fulltype = "ATA2.ATA400Trunk", registeryID = 5394, existsVanilla = false, isModded = true, modID = "tsarslib", obsolete = false, removed = false, isLoaded = false }
+};
