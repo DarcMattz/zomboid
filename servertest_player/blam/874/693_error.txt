@@ -1,0 +1,18 @@
+java.lang.RuntimeException: SANITY CHECK FAIL! thread="World Streamer"
+CRC mismatch save=0 load=846803154
+save chunk=null
+load wx,wy=874,693 thread="World Streamer"
+
+	at zombie.iso.IsoChunk$SanityCheck.log(IsoChunk.java:4583)
+	at zombie.iso.IsoChunk$SanityCheck.checkCRC(IsoChunk.java:4531)
+	at zombie.iso.IsoChunk.LoadFromDiskOrBufferInternal(IsoChunk.java:3649)
+	at zombie.iso.IsoChunk.LoadFromDiskOrBuffer(IsoChunk.java:3595)
+	at zombie.iso.IsoChunk.LoadFromBuffer(IsoChunk.java:2381)
+	at zombie.iso.IsoChunk.LoadOrCreate(IsoChunk.java:2348)
+	at zombie.iso.IsoChunk.LoadChunk(IsoChunk.java:2332)
+	at zombie.iso.WorldStreamer.DoChunkAlways(WorldStreamer.java:543)
+	at zombie.iso.WorldStreamer.DoChunk(WorldStreamer.java:528)
+	at zombie.iso.WorldStreamer.loadReceivedChunks(WorldStreamer.java:334)
+	at zombie.iso.WorldStreamer.threadLoop(WorldStreamer.java:392)
+	at zombie.iso.WorldStreamer.lambda$create$0(WorldStreamer.java:485)
+	at java.base/java.lang.Thread.run(Unknown Source)
